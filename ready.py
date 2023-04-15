@@ -5,3 +5,5 @@ for i in range(0,5):
         print("dělitelné 2")
     else:
         print("nedělitelné 2")
+
+print("Done and dusted")
