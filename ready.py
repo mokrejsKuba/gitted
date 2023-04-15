@@ -1,1 +1,2 @@
 print("ready!")
+print("error
