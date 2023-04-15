@@ -1,2 +1,2 @@
 print("ready!")
-print("error
+print("error")
